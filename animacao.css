@@ -1,0 +1,149 @@
+
+/*************** ANIMATIONS ***************/
+		@-webkit-keyframes spin {
+			from { -webkit-transform: rotateY(0); }
+			to { -webkit-transform: rotateY(360deg); }
+		}
+
+		@-ms-keyframes spin {
+			from { ms-transform: rotateY(0); }
+			to { ms-transform: rotateY(360deg); }
+		}
+
+		@keyframes spin {
+			from { transform: rotateY(0); }
+			to { transform: rotateY(360deg); }
+		}
+
+		@-webkit-keyframes spin-vertical {
+			from { -webkit-transform: rotateX(0); }
+			to { -webkit-transform: rotateX(-360deg); }
+		}
+
+		@-ms-keyframes spin-vertical {
+			from { ms-transform: rotateX(0); }
+			to { ms-transform: rotateX(-360deg); }
+		}
+
+		@keyframes spin-vertical {
+			from { transform: rotateX(0); }
+			to { transform: rotateX(-360deg); }
+		}
+
+		
+		/*************** STANDARD CUBE ***************/
+		.cube-wrap {
+			-webkit-perspective: 800px;
+			-webkit-perspective-origin: 50% 50px;
+
+			-moz-perspective: 800px;
+			-moz-perspective-origin: 50% 50px;
+
+			-ms-perspective: 800px;
+			-ms-perspective-origin: 50% 50px;
+
+			perspective: 800px;
+			perspective-origin: 50% 50px;
+		}
+
+		.cube {
+			position: relative;
+			width: 100px;
+			margin: 0 auto;
+			
+			-webkit-transform-style: preserve-3d;
+			-webkit-animation: spin 5s infinite linear;
+			
+			-moz-transform-style: preserve-3d;
+			-moz-animation: spin 5s infinite linear;
+
+			-ms-transform-style: preserve-3d;
+			-ms-animation: spin 5s infinite linear;
+
+			transform-style: preserve-3d;
+			animation: spin 5s infinite linear;
+		}
+
+		.cube div {
+			position: absolute;
+			width: 100px;
+			height: 100px;
+			background: rgba(255,255,255,0.1);
+			box-shadow: inset 0 0 30px rgba(125,125,125,0.8);
+			font-size: 15px;
+			text-align: center;
+			line-height: 100px;
+			color: rgba(0,0,0,0.7);
+			font-family: sans-serif;
+			text-transform: uppercase;
+		}
+
+		/*************** DEPTH CUBE ***************/
+		.depth div.back-pane {
+			-webkit-transform: translateZ(-50px) rotateY(180deg);
+			-moz-transform: translateZ(-50px) rotateY(180deg);
+			-ms-transform: translateZ(-50px) rotateY(180deg);
+
+			transform: translateZ(-50px) rotateY(180deg);
+		}
+		.depth div.right-pane {
+			-webkit-transform:rotateY(-270deg) translateX(50px);
+			-webkit-transform-origin: top right;
+
+			-moz-transform:rotateY(-270deg) translateX(50px);
+			-moz-transform-origin: top right;
+
+			-ms-transform:rotateY(-270deg) translateX(50px);
+			-ms-transform-origin: top right;
+
+			transform:rotateY(-270deg) translateX(50px);
+			transform-origin: top right;
+		}
+		.depth div.left-pane {
+			-webkit-transform:rotateY(270deg) translateX(-50px);
+			-webkit-transform-origin: center left;
+
+			-moz-transform:rotateY(270deg) translateX(-50px);
+			-moz-transform-origin: center left;
+
+			-ms-transform:rotateY(270deg) translateX(-50px);
+			-ms-transform-origin: center left;
+
+			transform:rotateY(270deg) translateX(-50px);
+			transform-origin: center left;
+		}
+		.depth div.top-pane {
+			-webkit-transform:rotateX(-90deg) translateY(-50px);
+			-webkit-transform-origin: top center;
+
+			-moz-transform:rotateX(-90deg) translateY(-50px);
+			-moz-transform-origin: top center;
+
+			-ms-transform:rotateX(-90deg) translateY(-50px);
+			-ms-transform-origin: top center;
+
+			transform:rotateX(-90deg) translateY(-50px);
+			transform-origin: top center;
+		}
+		.depth div.bottom-pane {
+			-webkit-transform:rotateX(90deg) translateY(50px);
+			-webkit-transform-origin: bottom center;
+
+			-moz-transform:rotateX(90deg) translateY(50px);
+			-moz-transform-origin: bottom center;
+
+			-ms-transform:rotateX(90deg) translateY(50px);
+			-ms-transform-origin: bottom center;
+
+			transform:rotateX(90deg) translateY(50px);
+			transform-origin: bottom center;
+		}
+		.depth div.front-pane {
+			-webkit-transform: translateZ(50px);
+			-moz-transform: translateZ(50px);
+			-ms-transform: translateZ(50px);
+
+			transform: translateZ(50px);
+		}
+
+
