@@ -1,0 +1,727 @@
+#c1l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0 0;
+	float: left;
+}
+
+#c2l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px 0;
+	float: left;
+}
+
+#c3l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px 0;
+	float: left;
+}
+
+#c4l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px 0;
+	float: left;
+}
+
+#c5l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px 0;
+	float: left;
+}
+
+#c6l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px 0;
+	float: left;
+}
+
+#c7l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -384px 0;
+	float: left;
+}
+
+#c8l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -448px 0;
+	float: left;
+}
+
+#c9l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -512px 0;
+	float: left;
+}
+
+#c10l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -576px 0;
+	float: left;
+}
+
+#c11l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -640px 0;
+	float: left;
+}
+
+#c12l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -704px 0;
+	float: left;
+}
+
+#c13l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -768px 0;
+	float: left;
+}
+
+#c14l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -832px 0;
+	float: left;
+}
+
+#c15l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -896px 0;
+	float: left;
+}
+
+#c16l1 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -960px 0;
+	float: left;
+}
+
+/* final linha 1*/
+
+#c1l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0px -64px;
+	float: left;
+}
+
+#c2l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px -64px;
+	float: left;
+}
+
+#c3l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px -64px;
+	float: left;
+}
+
+#c4l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px -64px;
+	float: left;
+}
+
+#c5l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px -64px;
+	float: left;
+}
+
+#c6l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px -64px;
+	float: left;
+}
+
+#c7l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -384px -64px;
+	float: left;
+}
+
+#c8l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -448px -64px;
+	float: left;
+}
+
+#c9l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -512px -64px;
+	float: left;
+}
+
+#c10l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -576px -64px;
+	float: left;
+}
+
+#c11l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -640px -64px;
+	float: left;
+}
+
+#c12l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -704px -64px;
+	float: left;
+}
+
+#c13l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -768px -64px;
+	float: left;
+}
+
+#c14l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -832px -64px;
+	float: left;
+}
+
+#c15l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -896px -64px;
+	float: left;
+}
+
+#c16l2 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -960px -64px;
+	float: left;
+}
+
+/* final linha 2*/
+
+#c1l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0px -128px;
+	float: left;
+}
+
+#c2l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px -128px;
+	float: left;
+}
+
+#c3l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px -128px;
+	float: left;
+}
+
+#c4l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px -128px;
+	float: left;
+}
+#c5l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px -128px;
+	float: left;
+}
+
+#c6l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px -128px;
+	float: left;
+}
+
+#c7l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -384px -128px;
+	float: left;
+}
+
+#c8l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -448px -128px;
+	float: left;
+}
+
+#c9l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -512px -128px;
+	float: left;
+}
+
+#c10l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -576px -128px;
+	float: left;
+}
+
+#c11l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -640px -128px;
+	float: left;
+}
+
+#c12l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -704px -128px;
+	float: left;
+}
+
+#c13l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -768px -128px;
+	float: left;
+}
+
+#c14l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -832px -128px;
+	float: left;
+}
+
+#c15l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -896px -128px;
+	float: left;
+}
+
+#c16l3 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -960px -128px;
+	float: left;
+}
+
+/* FINAL LINHA 3 */
+
+
+#c1l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0 -192px;
+	float: left;
+}
+
+#c2l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px -192px;
+	float: left;
+}
+
+#c3l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px -192px;
+	float: left;
+}
+
+#c4l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px -192px;
+	float: left;
+}
+
+#c5l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px -192px;
+	float: left;
+}
+
+#c6l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px -192px;
+	float: left;
+}
+
+#c7l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -384px -192px;
+	float: left;
+}
+
+#c8l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -448px -192px;
+	float: left;
+}
+
+#c9l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -512px -192px;
+	float: left;
+}
+
+#c10l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -576px -192px;
+	float: left;
+}
+
+#c11l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -640px -192px;
+	float: left;
+}
+
+#c12l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -704px -192px;
+	float: left;
+}
+
+#c13l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -768px -192px;
+	float: left;
+}
+
+#c14l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -832px -192px;
+	float: left;
+}
+
+#c15l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -896px -192px;
+	float: left;
+}
+
+#c16l4 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -960px -192px;
+	float: left;
+}
+
+/* FINAL LINHA 4 */
+
+#c1l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0 -256px;
+	float: left;
+}
+
+#c2l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px -256px;
+	float: left;
+}
+
+#c3l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px -256px;
+	float: left;
+}
+
+#c4l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px -256px;
+	float: left;
+}
+
+#c5l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px -256px;
+	float: left;
+}
+
+#c6l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px -256px;
+	float: left;
+}
+
+#c7l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -384px -256px;
+	float: left;
+}
+
+#c8l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -448px -256px;
+	float: left;
+}
+
+#c9l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -512px -256px;
+	float: left;
+}
+
+#c10l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -576px -256px;
+	float: left;
+}
+
+#c11l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -640px -256px;
+	float: left;
+}
+
+#c12l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -704px -256px;
+	float: left;
+}
+
+#c13l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -768px -256px;
+	float: left;
+}
+
+#c14l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -832px -256px;
+	float: left;
+}
+
+#c15l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -896px -256px;
+	float: left;
+}
+
+#c16l5 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -960px -256px;
+	float: left;
+}
+
+/* FINAL DA LINHA 5 */
+
+
+#c1l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0 -320px;
+	float: left;
+}
+
+#c2l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px -320px;
+	float: left;
+}
+
+#c3l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px -320px;
+	float: left;
+}
+
+#c4l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px -320px;
+	float: left;
+}
+
+#c5l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px -320px;
+	float: left;
+}
+
+#c6l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px -320px;
+	float: left;
+}
+
+#c7l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -384px -320px;
+	float: left;
+}
+
+#c8l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -448px -320px;
+	float: left;
+}
+
+#c9l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -512px -320px;
+	float: left;
+}
+
+#c10l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -576px -320px;
+	float: left;
+}
+
+#c11l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -640px -320px;
+	float: left;
+}
+
+#c12l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -704px -320px;
+	float: left;
+}
+
+#c13l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -768px -320px;
+	float: left;
+}
+
+#c14l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -832px -320px;
+	float: left;
+}
+
+#c15l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -896px -320px;
+	float: left;
+}
+
+#c16l6 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -960px -320px;
+	float: left;
+}
+
+
+/* FINAL LINHA 6 */
+
+#c1l7 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: 0 -384px;
+	float: left;
+}
+
+#c2l7 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -64px -384px;
+	float: left;
+}
+
+#c3l7 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -128px -384px;
+	float: left;
+}
+
+#c4l7 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -192px -384px;
+	float: left;
+}
+
+#c5l7 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -256px -384px;
+	float: left;
+}
+
+#c6l7 {
+	height: 64px; width: 64px;
+	background-image: url(terrain.png);
+	background-position: -320px -384px;
+	float: left;
+}
